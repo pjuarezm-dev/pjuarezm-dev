@@ -16,7 +16,8 @@
 ---
 
 ## 📌 Proyectos Destacados
- 
+
+- **[Portafolio Personal](https://pjuarezm-dev.github.io/)** - Sitio web de portafolio personal.
 - **[Tralkan Comic](https://github.com/tuusuario/tralkancomic)** – Sitio web interactivo para cómic, con animaciones y contenido multimedia.
 - **[Red Apicultura Natural Regenerativa](https://github.com/pjuarezm-dev/red-anr)** - Sitio web para la difusión de la Apicultura Natural Regenerativa
 - **Proyectos UACh** - Diversos proyectos implementados para gestión de información para la Universidad Austral de Chile
